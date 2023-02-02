@@ -5,7 +5,7 @@ body {
 }
 
 .container{
-    font-family: 'Courier New', Courier;
+    font-family: 'Courier New', Courier, monospace;
     color: #fff;
     position: absolute;
     top: 50%;
